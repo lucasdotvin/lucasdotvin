@@ -6,7 +6,7 @@ I work with software development, but I'm quite sure you already knew that (cons
 
 - I believe in and defend open-source! 🐐
 - I see software as a powerful way to change the world and help us combat social ills. 🤝
-- I'm a proud warrior for the glorious Horde! (FOR THE HORDE!) ⚔️
+- I'm a proud warrior for the glorious Horde! <em>(FOR THE HORDE!)</em> ⚔️
 - I strongly value accessibility on the web and other platforms. ♿
 
 Furthermore, I'm pursuing a Bachelor's Degree in Information Technology at the Federal University of Rio Grande do Norte. 🎓
