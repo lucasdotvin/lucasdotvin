@@ -5,7 +5,7 @@ I work with software development, but I'm quite sure you already knew that (cons
 <img align="right" alt="Ilustração de um doodle agarrado a uma xícara de café gigante" src="./images/doodle.png" width="250">
 
 - I believe in and defend open-source! 🐐
-- I see software as a powerful way to change the world and help us combat social ills. 🤝
+- I see software as a powerful way to transform the world and combat social ills. 🤝
 - I'm a proud warrior for the glorious Horde! <em>(FOR THE HORDE!)</em> ⚔️
 - I strongly value accessibility on the web and other platforms. ♿
 
