@@ -15,4 +15,4 @@ Furthermore, I'm pursuing a Bachelor's Degree in Information Technology at the F
 
 I'm often seen in the IMD's stuffy hallways, but you can also find me here:
 
-<p align="center"><a href="https://linkedin.com/in/lucasdotvin" title="LinkedIn"><img alt="LinkedIn's Logo" height="20" src="./images/linkedin-logo.png"></a> <a href="https://medium.com/@lucasdotvin" title="Medium"><img alt="Medium's Logo" height="20" src="./images/medium-logo.png"></a> <a href="https://twitter.com/lucasdotvin" title="Twitter"><img alt="Twitter's Logo" height="20" src="./images/twitter-logo.png"></a></p>
+<p align="center"><a target="_blank" href="https://linkedin.com/in/lucasdotvin" title="LinkedIn"><img alt="LinkedIn's Logo" height="20" src="./images/linkedin-logo.png"></a> <a target="_blank" href="https://medium.com/@lucasdotvin" title="Medium"><img alt="Medium's Logo" height="20" src="./images/medium-logo.png"></a> <a target="_blank" href="https://twitter.com/lucasdotvin" title="Twitter"><img alt="Twitter's Logo" height="20" src="./images/twitter-logo.png"></a></p>
